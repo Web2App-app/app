@@ -1,0 +1,18 @@
+<svg width="81.844452mm" height="55.636024mm" viewBox="0 0 81.844452 55.636024" version="1.1" id="svg5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+   <defs id="defs2">
+      <linearGradient id="linearGradient483">
+         <stop style="stop-color:#ff80b2;stop-opacity:1" offset="0" id="stop479" />
+         <stop style="stop-color:#330080;stop-opacity:1" offset="1" id="stop481" />
+      </linearGradient>
+      <linearGradient id="linearGradient281">
+         <stop style="stop-color:#ff80b2;stop-opacity:1" offset="0" id="stop277" />
+         <stop style="stop-color:#330080;stop-opacity:1" offset="1" id="stop279" />
+      </linearGradient>
+      <linearGradient xlink:href="#linearGradient281" id="linearGradient283" x1="-38.393181" y1="109.5715" x2="14.868997" y2="162.83368" gradientUnits="userSpaceOnUse" />
+      <linearGradient xlink:href="#linearGradient483" id="linearGradient285" x1="109.5715" y1="38.393181" x2="162.83368" y2="-14.868997" gradientUnits="userSpaceOnUse" />
+   </defs>
+   <g id="layer1" transform="translate(-47.303106,-78.900333)">
+      <rect style="fill:url(#linearGradient283);fill-rule:evenodd;stroke-width:0.288347;fill-opacity:1" id="rect31" width="57.872765" height="20.808456" x="-51.278996" y="118.17569" transform="rotate(-45)" />
+      <rect style="fill:url(#linearGradient285);fill-rule:evenodd;stroke-width:0.288347;fill-opacity:1" id="rect31-6" width="57.872765" height="20.808456" x="118.17569" y="-6.5937691" transform="rotate(45)" />
+   </g>
+</svg>
