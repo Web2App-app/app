@@ -26,9 +26,10 @@ const StyledHeader = styled.header`
   background: ${({ theme, open, showBG }) => (showBG && !open ? theme.backgroundColor : 'none')};
   border-bottom: 1px solid ${({ theme, open, showBG }) => (showBG && !open ? theme.concreteGray : 'none')};
   transition: background-color 0.25s ease;
+
   @media (max-width: 960px) {
     padding: 1rem 1.25rem;
-    height: ${({ open }) => (open ? '100vh' : '100%')};
+    // height: ${({ open }) => (open ? '100vh' : '100%')};
   }
 `
 
