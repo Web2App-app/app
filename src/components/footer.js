@@ -24,8 +24,7 @@ const StyledFooterLinkSection = styled.ul`
 `
 
 const StyledFooterLink = styled(Link)`
-  margin-left: 32px;
-  margin-right: 32px;
+  margin-left: 16px;
   color: ${({ theme }) => theme.textColor};
 `
 
@@ -41,6 +40,7 @@ const Footer = () => {
   return (
     <StyledFooter>
       <StyledFooterLinkSection>
+        <p style={{ margin: 0, marginRight: 16 }}>© {new Date().getFullYear()} Web2App.app</p>
         <a href="https://github.com/web2app-app" rel="noopener noreferrer" target="_blank">
           <StyledGithub />
         </a>
