@@ -38,5 +38,8 @@ Firebase:
 Uniswap homepage: 
 [github.com/Uniswap/org-v1](https://github.com/Uniswap/org-v1)
 
+## Contact
+contact@web2app.app
+
 ## Team members
 [@thomson159](https://github.com/thomson159)
