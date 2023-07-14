@@ -1,4 +1,4 @@
-# 😎 Web2App.app homepage
+😎 Web2App.app homepage
 ==========================
 
 Contains the source code for the [web2app.app](https://web2app.app) homepage and is based on the source code of the [uniswap.org](https://uniswap.org) homepage ([GPL-3.0 license](https://github.com/Web2App-app/app-v1/blob/main/LICENSE)).
