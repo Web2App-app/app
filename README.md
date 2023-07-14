@@ -1,6 +1,9 @@
 😎 Web2App.app homepage
 ==========================
 
+Turn Website Into App
+----------------------
+
 Contains the source code for the [web2app.app](https://web2app.app) homepage and is based on the source code of the [uniswap.org](https://uniswap.org) homepage ([GPL-3.0 license](https://github.com/Web2App-app/app-v1/blob/main/LICENSE)).
 
 ## Software
@@ -18,7 +21,11 @@ Contains the source code for the [web2app.app](https://web2app.app) homepage and
 
 Put Your own keys in the `.firebaserc` and `src/firebase.js` files.
 
+To deploy the app please follow the steps specified in the [Firebase documentation](https://firebase.google.com/docs).
+
 ## Development
+
+`node >= 12.0.0`
 
 To start the dev server:
 
