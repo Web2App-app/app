@@ -32,17 +32,23 @@ To deploy the app please follow the steps specified in the [Firebase documentati
 
 `node >= 12.0.0`
 
-### To start the dev server:
+### To install packages:
 
 1. `npm install`
+
+### To start the dev server:
+
 2. `npm start`
 
 Runs the app in the development mode. Open http://localhost:8000 to view it in the browser.
 
-### To build and host the app:
+### To build the app:
 
-1. `npm run build`
-2. `firebase deploy`
+3. `npm run build`
+
+### To host the app:
+
+4. `firebase deploy`
 
 ## Useful links
 
