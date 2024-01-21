@@ -6,7 +6,7 @@ Turn Website Into App
 
 ![Q7i2](https://github.com/Web2App-app/.github/assets/82395633/8e39bb4a-9ab7-4704-9c19-c1d4ec8eddf1)
 
-Contains the source code for the [web2app.app](https://web2app.app) homepage and is based on the source code of the [uniswap.org](https://uniswap.org) homepage ([GPL-3.0 license](https://github.com/Web2App-app/app-v1/blob/main/LICENSE)).
+Contains the source code for the [web2app.app](https://web2app.app) homepage and is based on the source code of the [uniswap.org](https://uniswap.org) homepage ([GPL-3.0 license](https://github.com/Uniswap/org-v1/blob/main/LICENSE)).
 
 React, JS, Firebase, Gatsby
 ===========
@@ -65,4 +65,5 @@ License:
 contact@web2app.app
 
 ## Team members
+[Uniswap team](https://github.com/Uniswap/org-v1)
 [@thomson159](https://github.com/thomson159)
